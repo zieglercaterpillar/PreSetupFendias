@@ -4,3 +4,4 @@ mkdir C:\FendiasDownload
 Copy-Item '\\e500srv6\Software\Fendias\test\Fendias V 1.2022' C:\FendiasDownload -Recurse
 Copy-Item '\\e500srv6\Software\Fendias\test\Fendias V 1a.2022' C:\FendiasDownload -Recurse
 Copy-Item '\\e500srv6\Software\Fendias\test\Fendias V 3.2021' C:\FendiasDownload -Recurse
+exit
