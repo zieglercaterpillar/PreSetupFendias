@@ -43,6 +43,7 @@ $copyScript = {
         $sync.progressBar.Value = $pct
         $sync.label.text = "Transfer complete"
         $sync.button.Remove_Click()
+        $sync.button.Add_Click()
         $sync.button.text = "Exit"
         $sync.button.Enabled = $true
     })
